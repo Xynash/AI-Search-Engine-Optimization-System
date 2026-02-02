@@ -6,6 +6,9 @@ The system combines ML models, NLP techniques, rule-based SEO algorithms, and we
 
 This README provides step-by-step instructions to set up, run, and understand the project.
 
+# REFERANCE RESEARCH PAPER
+* BERT:Pre-training of deep bidirectional transformers for language understanding in Proc.NAACL-HLT,2019
+
 📌 Project Overview
 
 The AI-Powered SEO System allows users to:
